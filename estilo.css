@@ -1,0 +1,23 @@
+* {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-align: center;
+}
+body {
+    background-color: silver;
+}
+h1 {
+
+    font-size: 90px;
+    padding: 0px;
+    margin: 0px;
+}
+
+marquee{
+    background-color: goldenrod;
+}
+
+ol {
+    display: inline-block;
+    text-align: center;
+    font-size: 70px;
+}
